@@ -42,7 +42,6 @@
             random.shuffle(s)
             print("Your password is:","".join(s[0:pl]))
 
-
     </py-script>
 </body>
 </html>
